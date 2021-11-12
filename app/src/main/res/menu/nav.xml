@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/ic_home"
+        app:cnb_backgroundColor="@color/light"
+        app:cnb_iconColor="@color/attribut"
+        app:cnb_textColor="@color/attribut"/>
+    <item
+        android:id="@+id/master"
+        android:title="Data"
+        android:icon="@drawable/ic_master"
+        app:cnb_backgroundColor="@color/light"
+        app:cnb_iconColor="@color/attribut"
+        app:cnb_textColor="@color/attribut"/>
+    <item
+        android:id="@+id/inventory"
+        android:title="Inventory"
+        android:icon="@drawable/ic_inventory"
+        app:cnb_backgroundColor="@color/light"
+        app:cnb_iconColor="@color/attribut"
+        app:cnb_textColor="@color/attribut"/>
+    <item
+        android:id="@+id/history"
+        android:title="History"
+        android:icon="@drawable/ic_history"
+        app:cnb_backgroundColor="@color/light"
+        app:cnb_iconColor="@color/attribut"
+        app:cnb_textColor="@color/attribut"/>
+
+</menu>

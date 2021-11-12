@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/login"
+        android:title="Login"
+        android:icon="@drawable/ic_login"
+        app:cnb_backgroundColor="@color/light"
+        app:cnb_iconColor="@color/attribut"
+        app:cnb_textColor="@color/attribut"/>
+    <item
+        android:id="@+id/register"
+        android:title="Register"
+        android:icon="@drawable/ic_register"
+        app:cnb_backgroundColor="@color/light"
+        app:cnb_iconColor="@color/attribut"
+        app:cnb_textColor="@color/attribut"/>
+
+</menu>
